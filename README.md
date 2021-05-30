@@ -1,0 +1,2 @@
+# Netflix_Data-Analysis
+Netflix is a fast growing application with its popularity, shows and content. Personally being a big fan of Netflix shows , I thought this would be an intresting data set to work on. I got the data set from Kaggle. This dataset consists  on movies and Tv-shows available in Netflix. In this notebook we are going to load and read the data using pandas, do the cleaning of the data, and analyze the data using different parameters, lastly we a going to visually represent data using Matplotlib and Seaborn.
